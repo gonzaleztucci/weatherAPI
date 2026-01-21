@@ -191,7 +191,6 @@ else:
 
 # parms['lat'] = '39.4833'
 # parms['lon'] = '-0.3667'
-# parms['appid'] = '9f0c1ea5ca4ca5b8f4793ed892c39d7b'
 
 # url = serviceurl + urllib.parse.urlencode(parms)
 
